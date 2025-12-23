@@ -1,0 +1,8 @@
+# No specific Python packages required beyond standard library
+# The implementation uses only built-in Python modules:
+# - json
+# - subprocess
+# - tempfile
+# - os
+# - sys
+# - base64
